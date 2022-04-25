@@ -1,5 +1,5 @@
 /*
-Copyright © 2022 changeworld
+Copyright © 2022 Takashi Takebayashi <changesworlds@gmail.com>
 
 */
 package cmd
